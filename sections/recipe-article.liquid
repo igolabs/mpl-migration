@@ -1,0 +1,42 @@
+{{ 'section-recipe-article.css' | asset_url | stylesheet_tag }}
+
+{%- assign date_format = 'general.date_format.month_day_year' | t -%}
+
+<div class="article__recipe container--large container--no-margin-if-not-first">
+
+  <div class="article__recipe-header">
+    <h1 class="h2">{{ article.title | escape }}</h1>
+    <div class="blog-item__meta">
+      <span class="blog-item__date text-size--small">{{ article.published_at | date: date_format }}</span>
+      <span class="blog-item__author text-size--small">{{ article.author | escape }}</span>
+    </div>
+    <div class="article__recipe-image element--border-radius">
+      <img src="{{ article.image.src | img_url: '1280x' }}">
+    </div>
+  </div>
+
+  <div class="article__recipe-wrapper">
+    <div class="article__recipe-ingredients">
+       <h3 class="ingredients__title">What you need</h3> 
+        {{ article.metafields.custom.recipe_ingredients | metafield_tag }}
+    </div>
+    <div class="article__recipe-instructions">
+      <h3 class="instructions__title">How to make it</h3> 
+      <div class="article__content rte">
+        {{ article.content }}
+      </div>
+    </div>
+  </div>
+
+</div>
+
+{% schema %}
+	{
+    "name": "Recipe Article",
+    "class": "article",
+    "tag": "article",
+    "blocks": [
+    ]
+  }
+{% endschema %}
+

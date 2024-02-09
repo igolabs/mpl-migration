@@ -1,0 +1,373 @@
+{
+  "sections": {
+    "video_slideshow_eBNRbW": {
+      "type": "video-slideshow",
+      "blocks": {
+        "image_QLJJDr": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/files\/videos\/pexels-polina-kovaleva-5524395 (1080p).mp4",
+            "caption": "Award Winning",
+            "title": "Artisan French Food Delivered To Your Door",
+            "link": "shopify:\/\/collections\/all",
+            "open_in_new_window": false,
+            "button_label": "Shop Now",
+            "color_background_main": "#363434",
+            "color_text_main": "#ffffff",
+            "seo_h_tag": "h3"
+          }
+        }
+      },
+      "block_order": [
+        "image_QLJJDr"
+      ],
+      "settings": {
+        "desktop_height": "60vh",
+        "mobile_height": "60vh",
+        "is_auto_height": false,
+        "autorotate_enable": false,
+        "autorotate_interval": 5,
+        "alignment": "horizontal-center align-content--vertical-middle",
+        "text_size": "xlarge",
+        "title_size": "h2",
+        "button_size": "large",
+        "button_style": "outline",
+        "is_fullwidth": true,
+        "section_background_color": "rgba(0,0,0,0)",
+        "section_heading_color": "rgba(0,0,0,0)",
+        "remove_margin": false,
+        "color_hide_borders": false,
+        "color_hide_shadow": true
+      }
+    },
+    "16541619272fee0e4e": {
+      "type": "collection-list",
+      "blocks": {
+        "ee5b7fe5-b950-43ab-bcf9-9f2a564e8c74": {
+          "type": "collection",
+          "settings": {
+            "collection": "christmas",
+            "image": "shopify:\/\/shop_images\/christmas-chocolate-image.jpg",
+            "collection_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+          }
+        },
+        "4fd20197-57e5-4687-8996-e9875ddf993f": {
+          "type": "collection",
+          "settings": {
+            "collection": "baby",
+            "image": "shopify:\/\/shop_images\/baby-image.jpg",
+            "collection_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+          }
+        },
+        "74d1d8df-2b25-4fd0-aafa-d887747b7fc1": {
+          "type": "collection",
+          "settings": {
+            "collection": "savoury-food",
+            "image": "shopify:\/\/shop_images\/savoury-food.jpg",
+            "collection_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+          }
+        },
+        "ed3e6d73-9210-4605-8cd0-18ae029e2fff": {
+          "type": "collection",
+          "settings": {
+            "collection": "soft-drinks",
+            "image": "shopify:\/\/shop_images\/soft-drinks.jpg",
+            "collection_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+          }
+        },
+        "16541619273bcea29e-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "sweet-groceries",
+            "image": "shopify:\/\/shop_images\/sweet-groceries.jpg",
+            "collection_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+          }
+        },
+        "0326ab2b-e4f9-4301-922a-e2e8241f8662": {
+          "type": "collection",
+          "settings": {
+            "collection": "bread-patisserie",
+            "image": "shopify:\/\/shop_images\/bread.jpg",
+            "collection_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+          }
+        }
+      },
+      "block_order": [
+        "ee5b7fe5-b950-43ab-bcf9-9f2a564e8c74",
+        "4fd20197-57e5-4687-8996-e9875ddf993f",
+        "74d1d8df-2b25-4fd0-aafa-d887747b7fc1",
+        "ed3e6d73-9210-4605-8cd0-18ae029e2fff",
+        "16541619273bcea29e-1",
+        "0326ab2b-e4f9-4301-922a-e2e8241f8662"
+      ],
+      "settings": {
+        "heading": "",
+        "subheading": "",
+        "show_view_all": false,
+        "section_heading_layout": "section-heading--left",
+        "style": "slider",
+        "layout": "grid-3 grid-palm-2",
+        "image_aspect_ratio": "1",
+        "section_background_color": "rgba(0,0,0,0)",
+        "section_heading_color": "rgba(0,0,0,0)",
+        "remove_margin": false,
+        "seo_h_tag": "h2"
+      }
+    },
+    "ce98bb83-ec57-4052-a83b-739ded6348c6": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16055582982244__ce98bb83-ec57-4052-a83b-739ded6348c6-title-1": {
+          "type": "title",
+          "settings": {
+            "title": "Indulge in the flavours of France, from the comfort of your home",
+            "title_size": "h3",
+            "seo_h_tag": "h2"
+          }
+        },
+        "template--16055582982244__ce98bb83-ec57-4052-a83b-739ded6348c6-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We source the finest foods from across France and whisk them, fresh as can be, to your doorstep. Fish, meat, cheese, charcuterie – the very best we can find. We also make gourmet dishes for top restaurants and hotels so you get to try those, too, in the comfort of your home.<\/p>",
+            "text_size": "regular"
+          }
+        },
+        "template--16055582982244__ce98bb83-ec57-4052-a83b-739ded6348c6-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Explore our Selection",
+            "link": "shopify:\/\/collections\/frontpage",
+            "open_in_new_window": false,
+            "button_size": "large",
+            "button_style": "outline"
+          }
+        }
+      },
+      "block_order": [
+        "template--16055582982244__ce98bb83-ec57-4052-a83b-739ded6348c6-title-1",
+        "template--16055582982244__ce98bb83-ec57-4052-a83b-739ded6348c6-text-1",
+        "template--16055582982244__ce98bb83-ec57-4052-a83b-739ded6348c6-button-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/pexels-ella-olsson-3026808.jpg",
+        "image_position": "right",
+        "height": "large",
+        "image_crop": true,
+        "text_alignment": "horizontal-left",
+        "is_fullwidth": true,
+        "section_background_color": "rgba(0,0,0,0)",
+        "remove_margin": false,
+        "color_background_main": "#004789",
+        "color_text_main": "#ffffff",
+        "color_accent_main": "#ffffff",
+        "color_borders_main": "rgba(0,0,0,0)",
+        "color_shadow_main": "rgba(0,0,0,0)",
+        "color_hide_borders": false,
+        "color_hide_shadow": false
+      }
+    },
+    "featured-collection": {
+      "type": "featured-collection",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "2fe5312e-e69f-45d1-bac2-bcdf636d2cf0": {
+          "type": "rating",
+          "settings": {
+          }
+        },
+        "quick_buy": {
+          "type": "quick_buy",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "price",
+        "2fe5312e-e69f-45d1-bac2-bcdf636d2cf0",
+        "quick_buy"
+      ],
+      "settings": {
+        "heading": "Featured Collection",
+        "subheading": "",
+        "show_view_all": true,
+        "section_heading_layout": "section-heading--center",
+        "style": "slider",
+        "layout": "grid-4 grid-portable-3 grid-lap-2 grid-tiny-1",
+        "products_number": 8,
+        "collection": "christmas",
+        "section_background_color": "rgba(0,0,0,0)",
+        "section_heading_color": "rgba(0,0,0,0)",
+        "remove_margin": false,
+        "seo_h_tag": "h2"
+      }
+    },
+    "rich_text_wimbY4": {
+      "type": "rich-text",
+      "blocks": {
+        "title_JiXe8E": {
+          "type": "title",
+          "settings": {
+            "title": "Indulge in the flavours of France, from the comfort of your home",
+            "title_size": "h3",
+            "seo_h_tag": "h2"
+          }
+        },
+        "text_ptRUPj": {
+          "type": "text",
+          "settings": {
+            "text": "<p>At Mon Panier Latin, we are committed to bringing the authentic taste of France to your doorstep. <\/p><p>Our selection of quality, hand-picked products is carefully sourced from France, and is guaranteed to satisfy your cravings for genuine French flavour. <\/p><p>From artisanal cheese to gourmet ingredients, we have something to offer for every taste and occasion. Whether you're looking to create a classic French dish or discover new flavours, we have a diverse range of products to suit your needs. <\/p><p>With Mon Panier Latin, you can indulge in the finest French products without ever leaving the UK. <\/p>",
+            "text_size": "regular"
+          }
+        },
+        "button_PUy6am": {
+          "type": "button",
+          "settings": {
+            "button_label": "Explore our Selection",
+            "link": "shopify:\/\/collections\/all",
+            "open_in_new_window": false,
+            "button_size": "large",
+            "button_style": "outline"
+          }
+        }
+      },
+      "block_order": [
+        "title_JiXe8E",
+        "text_ptRUPj",
+        "button_PUy6am"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/savoury-food.jpg",
+        "image_position": "left",
+        "height": "large",
+        "image_crop": true,
+        "text_alignment": "horizontal-right",
+        "is_fullwidth": true,
+        "section_background_color": "rgba(0,0,0,0)",
+        "remove_margin": false,
+        "color_background_main": "#d14545",
+        "color_text_main": "#ffffff",
+        "color_accent_main": "#ffffff",
+        "color_borders_main": "rgba(0,0,0,0)",
+        "color_shadow_main": "rgba(0,0,0,0)",
+        "color_hide_borders": false,
+        "color_hide_shadow": false
+      }
+    },
+    "a7b58aac-ddc1-46b9-bba8-5f5c54df7a94": {
+      "type": "featured-collection",
+      "blocks": {
+        "template--16055582982244__a7b58aac-ddc1-46b9-bba8-5f5c54df7a94-title-1": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "template--16055582982244__a7b58aac-ddc1-46b9-bba8-5f5c54df7a94-price-1": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "rating_zat6Ud": {
+          "type": "rating",
+          "settings": {
+          }
+        },
+        "template--16055582982244__a7b58aac-ddc1-46b9-bba8-5f5c54df7a94-quick_buy-1": {
+          "type": "quick_buy",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--16055582982244__a7b58aac-ddc1-46b9-bba8-5f5c54df7a94-title-1",
+        "template--16055582982244__a7b58aac-ddc1-46b9-bba8-5f5c54df7a94-price-1",
+        "rating_zat6Ud",
+        "template--16055582982244__a7b58aac-ddc1-46b9-bba8-5f5c54df7a94-quick_buy-1"
+      ],
+      "settings": {
+        "heading": "Featured Collection",
+        "subheading": "",
+        "show_view_all": true,
+        "section_heading_layout": "section-heading--center",
+        "style": "grid",
+        "layout": "grid-4 grid-portable-3 grid-lap-2 grid-tiny-1",
+        "products_number": 8,
+        "collection": "savoury-food",
+        "section_background_color": "rgba(0,0,0,0)",
+        "section_heading_color": "rgba(0,0,0,0)",
+        "remove_margin": false,
+        "seo_h_tag": "h2"
+      }
+    },
+    "2caab237-716c-4596-825e-486fce5fbc7a": {
+      "type": "newsletter",
+      "settings": {
+        "show_icon": true,
+        "title": "Subscribe to our newsletter",
+        "text": "<p>Je déclare avoir 16 ans ou plus et souhaiter recevoir des informations <br\/>personnalisées de Mon Panier Latin, et mes données pourront être <br\/>utilisées à des fins statistiques et analytiques. Pour en savoir plus <br\/>sur vos droits, consultez notre <a href=\"https:\/\/monpanierlatin.co.uk\/policies\/privacy-policy\" target=\"_blank\">Politique de Confidentialité.<\/a><br\/>                  \t\t  <\/p>",
+        "color_background_main": "#004789",
+        "color_text_main": "#ffffff",
+        "color_borders_main": "#d14545",
+        "color_shadow_main": "#d14545",
+        "section_background_color": "#004789",
+        "remove_margin": false,
+        "seo_h_tag": "h2"
+      }
+    },
+    "fdb118fc-de0a-4306-8669-163acfa2dc53": {
+      "type": "blog-posts",
+      "blocks": {
+        "template--16055582982244__fdb118fc-de0a-4306-8669-163acfa2dc53-info-1": {
+          "type": "info",
+          "settings": {
+            "show_date": true,
+            "show_author": false,
+            "show_comments_number": false
+          }
+        },
+        "template--16055582982244__fdb118fc-de0a-4306-8669-163acfa2dc53-title-1": {
+          "type": "title",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--16055582982244__fdb118fc-de0a-4306-8669-163acfa2dc53-info-1",
+        "template--16055582982244__fdb118fc-de0a-4306-8669-163acfa2dc53-title-1"
+      ],
+      "settings": {
+        "title": "My Recipies",
+        "subheading": "50 ideas to discover!",
+        "show_view_all": true,
+        "section_heading_layout": "section-heading--left",
+        "blog": "news",
+        "emphasize_first": false,
+        "blog_show_image": true,
+        "image_aspect_ratio": "1.33333",
+        "section_background_color": "rgba(0,0,0,0)",
+        "section_heading_color": "rgba(0,0,0,0)",
+        "remove_margin": false,
+        "seo_h_tag": "h2"
+      }
+    }
+  },
+  "order": [
+    "video_slideshow_eBNRbW",
+    "16541619272fee0e4e",
+    "ce98bb83-ec57-4052-a83b-739ded6348c6",
+    "featured-collection",
+    "rich_text_wimbY4",
+    "a7b58aac-ddc1-46b9-bba8-5f5c54df7a94",
+    "2caab237-716c-4596-825e-486fce5fbc7a",
+    "fdb118fc-de0a-4306-8669-163acfa2dc53"
+  ]
+}

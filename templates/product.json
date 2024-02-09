@@ -1,0 +1,126 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "rating_QPmJWz": {
+          "type": "rating",
+          "settings": {
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_price": true,
+            "show_quantity_selector": true,
+            "show_preorder": false,
+            "show_dynamic_checkout": false,
+            "show_gift_card_recipient": false
+          }
+        },
+        "empty_space_2": {
+          "type": "space",
+          "settings": {
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+          }
+        },
+        "collapsible_tab_8wM3CV": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Ingrédients",
+            "content": "<p>{{ product.metafields.custom.ingredients | metafield_tag }}<\/p>",
+            "page": "",
+            "hide_block_if": false
+          }
+        },
+        "collapsible_tab_b7miPi": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Valeurs Nutritionnelles",
+            "content": "<p>{{ product.metafields.custom.nutritional_information | metafield_tag }}<\/p>",
+            "page": "",
+            "hide_block_if": false
+          }
+        },
+        "collapsible_tab_kr3xMK": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Conservation",
+            "content": "<p>{{ product.metafields.custom.conservation | metafield_tag }}<\/p>",
+            "page": "",
+            "hide_block_if": false
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "rating_QPmJWz",
+        "buy_buttons",
+        "empty_space_2",
+        "description",
+        "collapsible_tab_8wM3CV",
+        "collapsible_tab_b7miPi",
+        "collapsible_tab_kr3xMK"
+      ],
+      "settings": {
+        "gallery_style": "slider",
+        "gallery_ratio": "natural",
+        "gallery_fit": true,
+        "show_border": false,
+        "gallery_card_design": true,
+        "gallery_padding": 10,
+        "gallery_pagination": "dots",
+        "enable_zoom": true,
+        "enable_video_looping": false
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "blocks": {
+        "price": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "quick_buy": {
+          "type": "quick_buy",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "price",
+        "title",
+        "quick_buy"
+      ],
+      "settings": {
+        "heading": "Recommended Products",
+        "subheading": "",
+        "section_heading_layout": "section-heading--center",
+        "layout": "grid-4 grid-portable-3 grid-lap-2 grid-tiny-1",
+        "products_number": 4,
+        "section_background_color": "rgba(0,0,0,0)",
+        "section_heading_color": "rgba(0,0,0,0)",
+        "remove_margin": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "product-recommendations"
+  ]
+}

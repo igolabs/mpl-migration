@@ -1,0 +1,7 @@
+.mon-panier .media-text__overlay {
+  margin-top: var(--spacer-6);
+}
+
+.mon-panier .media-text__overlay .grid {
+  column-gap: 0;
+}

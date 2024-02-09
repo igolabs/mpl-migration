@@ -1,0 +1,71 @@
+{
+  "type": "header",
+  "name": "t:sections.refactor_words.labels.header_group",
+  "sections": {
+    "announcement": {
+      "type": "announcement-bar",
+      "blocks": {
+        "content": {
+          "type": "content",
+          "settings": {
+            "text": "Spend £65 or more to get free shipping!",
+            "link": "",
+            "target": false
+          }
+        }
+      },
+      "block_order": [
+        "content"
+      ],
+      "settings": {
+        "visibility": "all",
+        "show_locale_selector": true,
+        "show_country_selector": true,
+        "show_social_icons": false,
+        "bar_bgcolor": "#e62e37",
+        "bar_txtcolor": "#ffffff"
+      }
+    },
+    "header": {
+      "type": "header",
+      "blocks": {
+        "73a034f9-49e0-4535-9f0a-d934943749fd": {
+          "type": "mega-menu",
+          "settings": {
+            "menu_handle": "food",
+            "show_promotion_block": true,
+            "promotion_title": "New",
+            "promotion_title_size": "text-size--heading",
+            "promotion_subtitle": "Take a look at our latest and greatest",
+            "promotion_subtitle_size": "text-size--regular",
+            "promotion_button_label": "Shop now",
+            "promotion_button_size": "regular",
+            "promotion_button_link": "",
+            "promotion_color_txt": "#ffffff",
+            "promotion_color_bg": "rgba(0,0,0,0)",
+            "promotion_image": "shopify:\/\/shop_images\/new-in-2.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "73a034f9-49e0-4535-9f0a-d934943749fd"
+      ],
+      "settings": {
+        "logo_src": "shopify:\/\/shop_images\/logo_tsp_422x278_9e78a901-baf7-4100-871b-04e44da66853_165x_png.png",
+        "logo_height": 60,
+        "main_linklist": "test-menu",
+        "show_search": true,
+        "sticky_header": true,
+        "select_header_actions_on_mobile": "show_always",
+        "show_header_actions": true,
+        "show_locale_selector": true,
+        "show_country_selector": true,
+        "show_social_icons": true
+      }
+    }
+  },
+  "order": [
+    "announcement",
+    "header"
+  ]
+}

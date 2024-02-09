@@ -1,0 +1,23 @@
+.mon-panier .homepage-slider .card__text {
+  max-width: 40rem;
+}
+
+.mon-panier .homepage-slider .card__text .slider__caption {
+  font-family: var(--font-stack-body-bold);
+  margin-bottom: var(--spacer-1);
+}
+
+.mon-panier .homepage-slider .card__text .slider__title {
+  line-height: 1;
+  margin-bottom: var(--spacer-1);
+}
+
+.mon-panier .homepage-slider .card__text .button {
+  font-family: var(--font-stack-body-bold);
+}
+
+.mon-panier .homepage-slider video {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}

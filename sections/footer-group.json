@@ -1,0 +1,72 @@
+{
+  "type": "footer",
+  "name": "t:sections.refactor_words.labels.footer_group",
+  "sections": {
+    "footer": {
+      "type": "footer",
+      "blocks": {
+        "menu-1": {
+          "type": "menu",
+          "settings": {
+            "title": "Quick links",
+            "menu": "quick-links",
+            "open_in_new_window": false
+          }
+        },
+        "menu-2": {
+          "type": "menu",
+          "settings": {
+            "title": "Our Services",
+            "menu": "our-services",
+            "open_in_new_window": false
+          }
+        },
+        "93f5fa41-4c4f-47e1-960f-e053acadf513": {
+          "type": "menu",
+          "settings": {
+            "title": "Mon Panier Latin and I",
+            "menu": "mon-panier-latin-and-i",
+            "open_in_new_window": false
+          }
+        },
+        "0617378a-281e-4dc2-a8be-289d009fac9d": {
+          "type": "text",
+          "settings": {
+            "title": "Follow us",
+            "size": "h5",
+            "content": "",
+            "show_social_icons": true,
+            "enable_follow_on_shop": false
+          }
+        },
+        "text_GNi6Fw": {
+          "type": "text",
+          "settings": {
+            "title": "Need Help?",
+            "size": "h5",
+            "content": "<p>Phone: 020 8159 5140<\/p><p>Email: <a href=\"mailto:bonjour@monpanierlatin.co.uk\">bonjour@monpanierlatin.co.uk<\/a><\/p><p>Monday - Friday 9h - 19h<\/p><p>Saturday 9h – 13h<\/p>",
+            "show_social_icons": false,
+            "enable_follow_on_shop": false
+          }
+        }
+      },
+      "block_order": [
+        "menu-1",
+        "menu-2",
+        "93f5fa41-4c4f-47e1-960f-e053acadf513",
+        "0617378a-281e-4dc2-a8be-289d009fac9d",
+        "text_GNi6Fw"
+      ],
+      "settings": {
+        "layout": "grid-5 grid-portable-2 grid-lap-1",
+        "show_locale_selector": true,
+        "show_country_selector": true,
+        "remove_margin": false,
+        "seo_h_tag": "h4"
+      }
+    }
+  },
+  "order": [
+    "footer"
+  ]
+}

@@ -1,0 +1,7 @@
+.mon-panier .main-search__wrapper {
+}
+
+.mon-panier .main-search__wrapper h2 {
+  font-size: var(--text-size-xl);
+  margin: var(--spacer-3) 0;
+}

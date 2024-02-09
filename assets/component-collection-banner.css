@@ -1,0 +1,11 @@
+.mon-panier .main-collection-banner .section-heading {
+  margin-bottom: var(--spacer-3);
+}
+
+.mon-panier .main-collection-banner .section-heading h1 {
+  font-size: var(--text-size-xl);
+}
+
+.mon-panier .collection-main__banner {
+  margin-top: var(--spacer-3);
+}

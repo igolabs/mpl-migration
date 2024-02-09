@@ -1,0 +1,22 @@
+.mon-panier .collection-list {
+  margin-top: var(--spacer-6);
+}
+
+.mon-panier .collection-list .card__text {
+  font-family: var(--font-stack-body-bold);
+  padding: var(--spacer-2) 0 0 0;
+}
+
+.mon-panier .collection-list .card__text .card__description {
+  font-family: var(--font-stack-body);
+  font-size: var(--text-size-xxxs);
+  padding: 0 var(--spacer-6);
+}
+
+.mon-panier .collection-list .card__text .card__title {
+  font-family: var(--font-stack-headings);
+  font-size: var(--text-size-md); 
+  letter-spacing: -1px;
+  line-height: 1;
+  margin-bottom: var(--spacer-1);
+}

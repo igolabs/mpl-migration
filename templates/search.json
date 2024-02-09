@@ -1,0 +1,48 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-search",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "rating_4M7Jka": {
+          "type": "rating",
+          "settings": {
+          }
+        },
+        "quick_buy": {
+          "type": "quick_buy",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "price",
+        "rating_4M7Jka",
+        "quick_buy"
+      ],
+      "settings": {
+        "results_number": 24,
+        "enable_filtering": true,
+        "enable_sorting": true,
+        "blog_show_image": false,
+        "image_aspect_ratio": "1.33333",
+        "show_date": true,
+        "show_author": false,
+        "show_comments_number": false
+      }
+    }
+  },
+  "order": [
+    "main"
+  ]
+}

@@ -1,0 +1,63 @@
+.breadcrumb-main {
+  display: none;
+}
+
+.article__recipe {
+  margin-top: var(--spacer-6);    
+}
+
+.article__recipe .article__recipe-header {
+  text-align: center;
+}
+
+.article__recipe .article__recipe-header .article__recipe-image {
+  margin-top: var(--spacer-6);
+}
+
+.article__recipe .article__recipe-header .article__recipe-image img {
+  max-width: 100%;
+  width: 100%;  
+}
+
+.article__recipe .article__recipe-header h1 {
+  font-size: var(--text-size-large-heading);
+  margin-bottom: var(--spacer-1);
+  line-height: 1;
+}
+
+.article__recipe .article__recipe-wrapper {
+  margin-top: var(--spacer-6);
+  display: grid;    
+  grid-column-gap: var(--spacer-10);
+  grid-template-areas: 
+    "ingredients instructions instructions";
+}
+
+.article-navigation__header {
+  font-size: var(--text-size-md);
+  text-align: center;  
+  margin-top: var(--spacer-6);
+  margin-bottom: 0;
+}
+
+.blog-item__title-holder {
+  font-family: var(--font-stack-headings);
+  font-size: var(--text-size-xs);
+}
+
+.article__recipe .article__recipe-wrapper .article__recipe-ingredients {
+  grid-area: ingredients;
+}
+
+.article__recipe .article__recipe-wrapper .article__recipe-ingredients .ingredients__title,
+.article__recipe .article__recipe-wrapper .article__recipe-instructions .instructions__title {
+  font-size: var(--text-size-xs);
+}
+
+.article__recipe .article__recipe-wrapper .article__recipe-instructions {
+  grid-area: instructions;
+}
+
+.article__recipe .article__recipe-wrapper .article__recipe-instructions .article__content li {
+  margin-bottom: var(--spacer-1);
+}
