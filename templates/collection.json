@@ -13,13 +13,13 @@
     "product-grid": {
       "type": "main-collection-product-grid",
       "blocks": {
-        "title": {
-          "type": "title",
+        "price": {
+          "type": "price",
           "settings": {
           }
         },
-        "price": {
-          "type": "price",
+        "title": {
+          "type": "title",
           "settings": {
           }
         },
@@ -35,8 +35,8 @@
         }
       },
       "block_order": [
-        "title",
         "price",
+        "title",
         "rating_p6bFca",
         "quick_buy"
       ],
